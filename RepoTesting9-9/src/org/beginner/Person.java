@@ -5,7 +5,7 @@ public class Person {
 	private int maximumBooks; // most books the person can check out
 	// constructors
 	public Person() {
-	name = "unknown name";
+	name = "KTMH";
 	maximumBooks = 3;
 	}
 	//methods
