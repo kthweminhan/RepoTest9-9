@@ -6,7 +6,7 @@ public class Book {
 	Person person;
 	public Book(String string) {
 	this.title = string;
-	this.author = "unknown author";
+	this.author = "Kay Thwe Min Han";
 	}
 	public String getAuthor() {
 	return author;
